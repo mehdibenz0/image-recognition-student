@@ -10,7 +10,7 @@ In this project, you will:
  - Test the model in real-time during a live demo: connect your webcam and run a live prediction script! Hold up an object, and your model will try to guess what it is—in real time! If there's no recognizable object, it will say "No object."
 
     <img src="images/mug.png" alt="Object Example" width="500"/>
-    <img src="images/noobject.png" alt="Object Example" width="500"/>
+    ![Object Example](images/noobject.png)
     <img src="images/emptyhand.png" alt="Object Example" width="500"/>
 
 ##  Files Description
