@@ -1,1 +1,73 @@
 # image-recognition-student
+
+A fun and simple machine learning project where you'll teach computers to recognize everyday classroom objects like pens, glasses, erasers, and notebooks using your webcam!
+
+## Project Overview
+In this project, you will:
+
+ - Collect images of objects using your webcam
+ - Train a machine learning model to recognize them
+ - Test the model in real-time during a live demo!
+
+##  Files Description
+
+| File             | Description |
+|------------------|-------------|
+| `save_images.py` | Code to take pictures of classroom objects using OpenCV (you'll need to complete the TODOs)
+| `train_model.py` | Code to train a simple machine learning model using TensorFlow (you'll need to complete the TODOs)
+| `preprocess.py` | Processes the images by resizing and preparing them for training
+| `predict_webcam.py` | Uses your trained model to recognize objects in real time. |
+
+
+##  Your Tasks
+You'll need to complete the TODOs in two main files:
+ - save_images_student.py - Help the program capture and save images of objects
+ - train_model_student.py - Build a neural network model that can learn to recognize objects
+   
+##  Project Steps
+1. Install requirements
+```bash
+pip install -r requirements.txt
+```
+
+2. Collect training images
+Complete the TODOs in save_images_student.py, then run:
+```bash
+python save_images_student.py
+```
+Create 20-30 images per object (pen, glasses, eraser, notebook, etc.).
+
+3. Preprocess the images
+This step resizes all images to a fixed size and saves them in a format the model can use:
+```bash
+python preprocess.py
+```
+This will create a file called dataset.pkl which contains the image data and labels.
+
+4. Train your model
+Complete the TODOs in train_model_student.py, then run:
+```bash
+python train_model_student.py
+```
+This script will process the images and train a model called object_detector.h5.
+
+5. Run real-time prediction!
+```bash
+python predict_webcam.py
+```
+Try holding up different objects in front of the webcam. The program will tell you what it sees!
+
+## Clean-Up Tip
+If the model isn't working well, you can delete the object_detector.h5 file and try collecting more images or re-training.
+
+## Learning Goals
+Understand how machines can learn to see like humans
+Learn basic Python scripting and libraries like OpenCV and TensorFlow
+Experience the joy of coding and seeing results in real-time!
+
+
+## Helpful Hints
+
+Make sure your webcam is working before starting
+Take pictures with different backgrounds and lighting
+The more varied your training images, the better your model will recognize objects!
