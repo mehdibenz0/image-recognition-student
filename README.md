@@ -1,13 +1,13 @@
 # image-recognition-student
 
-A fun and simple machine learning project where you'll teach computers to recognize everyday classroom objects like pens, glasses, erasers, and notebooks using your webcam!
+In this fun and beginner-friendly machine learning project, you'll build your very own object recognition system using Python! The goal? To teach a computer how to recognize everyday classroom items like pens, glasses, notebooks, erasers, and more—just by showing them to your webcam!
 
 ## Project Overview
 In this project, you will:
 
- - Collect images of objects using your webcam
- - Train a machine learning model to recognize them
- - Test the model in real-time during a live demo!
+ - Collect images of objects using your webcam: use your webcam to snap pictures of objects around you. You'll collect 20–30 photos of each item from different angles, lighting conditions, and backgrounds to help the computer learn better.
+ - Train a machine learning model to recognize them: feed your image data into a simple model. You’ll teach your computer to spot patterns in the images—like shape, color, and size.
+ - Test the model in real-time during a live demo: connect your webcam and run a live prediction script! Hold up an object, and your model will try to guess what it is—in real time! If there's no recognizable object, it will say "No object."
 
 ##  Files Description
 
