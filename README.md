@@ -26,6 +26,17 @@ In this project, you will:
 You'll need to complete the TODOs in two main files:
  - save_images_student.py - Help the program capture and save images of objects
  - train_model_student.py - Build a neural network model that can learn to recognize objects
+
+##  Clone this Project
+To download all the code and files from this project, simply run:
+```bash
+git clone https://github.com/
+```
+This will create a new folder with all the files you need — including:
+ - Python scripts to collect and preprocess images
+ - Training and prediction scripts
+ - Sample code to modify
+ - The README file you're reading now!
    
 ##  Project Steps
 1. Install requirements
