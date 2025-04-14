@@ -1,10 +1,12 @@
 <p align="right">
-  <img src="images/techspark-700x208.png" alt="TechSpark Academy Logo" width="190"/>
+  <b>Powered by      </b>
 </p>
 
 <p align="right">
-  <b>Powered by TechSpark Academy</b>
+  <img src="images/techspark-700x208.png" alt="TechSpark Academy Logo" width="210"/>
 </p>
+
+
 
 
 # Image Recognition Project
