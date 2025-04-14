@@ -19,10 +19,10 @@ In this project, you will:
  - Collect images of objects using your webcam: use your webcam to snap pictures of objects around you. You'll collect 20–30 photos of each item from different angles, lighting conditions, and backgrounds to help the computer learn better.
  - Train a machine learning model to recognize them: feed your image data into a simple model. You’ll teach your computer to spot patterns in the images—like shape, color, and size.
  - Test the model in real-time during a live demo: connect your webcam and run a live prediction script! Hold up an object, and your model will try to guess what it is—in real time! If there's no recognizable object, it will say "No object."
-
+<div align="center">
     <img src="images/mug.png" alt="Object Example" width="500"/>
     <img src="images/emptyhand.png" alt="Object Example" width="500"/>
-
+</div>
 ##  Files Description
 
 | File             | Description |
