@@ -9,6 +9,11 @@ In this project, you will:
  - Train a machine learning model to recognize them: feed your image data into a simple model. You’ll teach your computer to spot patterns in the images—like shape, color, and size.
  - Test the model in real-time during a live demo: connect your webcam and run a live prediction script! Hold up an object, and your model will try to guess what it is—in real time! If there's no recognizable object, it will say "No object."
 
+   <img src="images/mug.jpg" alt="Object Example" width="200"/>
+<img src="images/noobject.jpg" alt="Object Example" width="200"/>
+<img src="images/emptyhand.jpg" alt="Object Example" width="200"/>
+
+
 ##  Files Description
 
 | File             | Description |
