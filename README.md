@@ -30,8 +30,7 @@ You'll need to complete the TODOs in two main files:
 pip install -r requirements.txt
 ```
 
-2. Collect training images
-Complete the TODOs in save_images_student.py, then run:
+2. Complete the TODOs in save_images_student.py, then run the following to collect training images :
 ```bash
 python save_images_student.py
 ```
@@ -44,8 +43,7 @@ python preprocess.py
 ```
 This will create a file called dataset.pkl which contains the image data and labels.
 
-4. Train your model
-Complete the TODOs in train_model_student.py, then run:
+4. Complete the TODOs in train_model_student.py, then run the following to train your model:
 ```bash
 python train_model_student.py
 ```
