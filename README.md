@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="images/logo.png" alt="TechSpark Academy Logo" width="50"/>
+  <img src="images/logo.png" alt="TechSpark Academy Logo" width="120"/>
 </p>
 
 <p align="right">
