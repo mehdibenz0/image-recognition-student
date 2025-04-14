@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="images/logo.png" alt="TechSpark Academy Logo" width="150"/>
+</p>
+
+<p align="center">
+  <b>Powered by TechSpark Academy</b>
+</p>
+
+
 # image-recognition-student
 
 In this fun and beginner-friendly machine learning project, you'll build your very own object recognition system using Python! The goal? To teach a computer how to recognize everyday classroom items like pens, glasses, notebooks, erasers, and more—just by showing them to your webcam!
